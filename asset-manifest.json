@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/insight-ai/static/css/main.4dd8449c.css",
+    "main.js": "/insight-ai/static/js/main.3b70f74e.js",
+    "static/js/453.c3f15b1a.chunk.js": "/insight-ai/static/js/453.c3f15b1a.chunk.js",
+    "index.html": "/insight-ai/index.html",
+    "main.4dd8449c.css.map": "/insight-ai/static/css/main.4dd8449c.css.map",
+    "main.3b70f74e.js.map": "/insight-ai/static/js/main.3b70f74e.js.map",
+    "453.c3f15b1a.chunk.js.map": "/insight-ai/static/js/453.c3f15b1a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4dd8449c.css",
+    "static/js/main.3b70f74e.js"
+  ]
+}
